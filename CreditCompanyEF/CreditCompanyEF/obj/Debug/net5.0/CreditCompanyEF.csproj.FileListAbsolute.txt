@@ -1,0 +1,15 @@
+C:\Users\avich\source\repos\CreditCompanyEF\CreditCompanyEF\bin\Debug\net5.0\CreditCompanyEF.deps.json
+C:\Users\avich\source\repos\CreditCompanyEF\CreditCompanyEF\bin\Debug\net5.0\CreditCompanyEF.runtimeconfig.json
+C:\Users\avich\source\repos\CreditCompanyEF\CreditCompanyEF\bin\Debug\net5.0\CreditCompanyEF.runtimeconfig.dev.json
+C:\Users\avich\source\repos\CreditCompanyEF\CreditCompanyEF\bin\Debug\net5.0\CreditCompanyEF.dll
+C:\Users\avich\source\repos\CreditCompanyEF\CreditCompanyEF\bin\Debug\net5.0\ref\CreditCompanyEF.dll
+C:\Users\avich\source\repos\CreditCompanyEF\CreditCompanyEF\bin\Debug\net5.0\CreditCompanyEF.pdb
+C:\Users\avich\source\repos\CreditCompanyEF\CreditCompanyEF\obj\Debug\net5.0\CreditCompanyEF.csproj.AssemblyReference.cache
+C:\Users\avich\source\repos\CreditCompanyEF\CreditCompanyEF\obj\Debug\net5.0\CreditCompanyEF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avich\source\repos\CreditCompanyEF\CreditCompanyEF\obj\Debug\net5.0\CreditCompanyEF.AssemblyInfoInputs.cache
+C:\Users\avich\source\repos\CreditCompanyEF\CreditCompanyEF\obj\Debug\net5.0\CreditCompanyEF.AssemblyInfo.cs
+C:\Users\avich\source\repos\CreditCompanyEF\CreditCompanyEF\obj\Debug\net5.0\CreditCompanyEF.csproj.CoreCompileInputs.cache
+C:\Users\avich\source\repos\CreditCompanyEF\CreditCompanyEF\obj\Debug\net5.0\CreditCompanyEF.dll
+C:\Users\avich\source\repos\CreditCompanyEF\CreditCompanyEF\obj\Debug\net5.0\ref\CreditCompanyEF.dll
+C:\Users\avich\source\repos\CreditCompanyEF\CreditCompanyEF\obj\Debug\net5.0\CreditCompanyEF.pdb
+C:\Users\avich\source\repos\CreditCompanyEF\CreditCompanyEF\obj\Debug\net5.0\CreditCompanyEF.genruntimeconfig.cache
