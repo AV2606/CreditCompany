@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GKc8wa8dKedbXAaTxm7GxDS9uY0XUyooz5SojlsEe/wD3t56hH1XaPIweitSW81UNIS26tF8ghVv6/C5v5DKlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\avich\\source\\repos\\Tools\\Tools\\Tools.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\avich\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\avich\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\avich\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
