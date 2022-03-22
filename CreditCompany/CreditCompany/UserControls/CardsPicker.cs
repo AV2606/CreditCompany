@@ -82,7 +82,7 @@ namespace CreditCompany.UserControls
         }
         public static explicit operator CardDisplay(CreditCompanyEF.Proxies.CreditCardClientProxy card)
         {
-            return new CardDisplay(card)// { card = card };
+            return new CardDisplay(card);// { card = card };
         }
     }
 }
